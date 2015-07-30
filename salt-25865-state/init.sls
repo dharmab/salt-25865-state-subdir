@@ -1,4 +1,4 @@
 canary:
   grains.present:
     - name: canary
-    - value: testing
+    - value: development
